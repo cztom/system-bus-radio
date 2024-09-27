@@ -1,6 +1,7 @@
 # System Bus Radio
 
 This program transmits radio on computers / phones without radio transmitting hardware.
+用电脑轻松发射无线电信号。该项目通过控制计算机系统总线在特定频率上切换电流，实现了无需额外硬件设备，仅用电脑发送 AM 无线电信号的功能。
 
 ## Thank you to our sponsors
 
